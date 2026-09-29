@@ -9,7 +9,7 @@ class Solution {
         }
 
         for(int i = 0; i < nums.length; i++) {
-            sum =sum-nums[i];
+            sum =sum-i;
         }
 
         return sum;
