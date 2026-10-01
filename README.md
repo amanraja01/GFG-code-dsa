@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/amanraja01/GFG-code-dsa/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/amanraja01/GFG-code-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/amanraja01/GFG-code-dsa/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/amanraja01/GFG-code-dsa/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/amanraja01/GFG-code-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/amanraja01/GFG-code-dsa/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/amanraja01/GFG-code-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/amanraja01/GFG-code-dsa/tree/master/0561-array-partition) |
 ## Greedy
 |  |
